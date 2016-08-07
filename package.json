@@ -1,0 +1,11 @@
+{
+  "name": "redhat",
+  "version": "1.0.0",
+  "dependencies": {
+    "unit.js": "^1.0.0"
+  },
+  "devDependencies" : {
+    "unit.js": "^1.0.0"
+  }
+
+}
